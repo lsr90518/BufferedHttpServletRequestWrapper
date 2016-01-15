@@ -6,7 +6,6 @@ import javax.servlet.ServletException;
 import javax.servlet.ServletRequest;
 import javax.servlet.ServletResponse;
 import javax.servlet.http.HttpServletRequest;
-import jp.pecolly.core.web.http.BufferedHttpServletRequestWrapper;
 
 /**
  * Created by ryu_shozen on 2016/01/15.
